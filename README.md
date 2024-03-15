@@ -1,4 +1,4 @@
-lwlinks：老歪给朋友的小玩具（必看重要声明）
+lwlinks：老歪给朋友的小玩具
 ===
 ## 重要声明：
 本工具仅用于学习测试等合法合规用途，严禁用于违法违规用途。
@@ -13,8 +13,8 @@ lwlinks：老歪给朋友的小玩具（必看重要声明）
 
 ## lwgenip：CF IP生成器
 点击lwgenip.exe生成指定Cloudflare IP。  
-cf_ips.txt：不用动，生成IP用。CF IP段改动时可手动更改。  
-gen_ips.txt：输出生成的IP  
+- cf_ips.txt：不用动，生成IP用。CF IP段改动时可手动更改。  
+- gen_ips.txt：输出生成的IP  
 
 ## lwlink：IP去重订阅生成器
 点击lwlink.exe对IP去重生成订阅。  
