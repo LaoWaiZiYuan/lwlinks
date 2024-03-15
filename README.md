@@ -1,5 +1,5 @@
 # lwlinks
-lwgenip：CF IP生成器
+lwgenip：CF IP生成器\n
 lwlink：IP去重订阅生成器
 lwlinkp：IP去重测Ping订阅生成器
 
