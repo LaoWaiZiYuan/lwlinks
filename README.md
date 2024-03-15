@@ -4,6 +4,9 @@ lwlinks：老歪给朋友的小玩具（必看重要声明）
 ### lwlink：IP去重订阅生成器  
 ### lwlinkp：IP去重测Ping订阅生成器  
 
+# Youtube:老歪资源@Laowai777
+# 频道链接：https://www.youtube.com/channel/UCU6Z6AuEqq5xTk52PiUE7lA
+
 ## lwgenip：CF IP生成器
 点击lwgenip.exe生成指定Cloudflare IP。  
 cf_ips.txt：不用动，生成IP用。CF IP段改动时可手动更改。  
