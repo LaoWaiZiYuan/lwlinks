@@ -1,22 +1,22 @@
 lwlinks:老歪给朋友的小玩具
 ===========================
-lwgenip：CF IP生成器  
-lwlink：IP去重订阅生成器  
-lwlinkp：IP去重测Ping订阅生成器  
----------------------------
-lwgenip：CF IP生成器
+#lwgenip：CF IP生成器  
+#lwlink：IP去重订阅生成器  
+#lwlinkp：IP去重测Ping订阅生成器  
+
+##lwgenip：CF IP生成器
 点击lwgenip.exe生成指定Cloudflare IP。
 cf_ips.txt：不用动，生成IP用。CF IP段改动时可手动更改。
 gen_ips.txt：输出生成的IP
 
-lwlink：IP去重订阅生成器
+##lwlink：IP去重订阅生成器
 点击lwlink.exe对IP去重生成订阅。
 input_ips.txt：放入需要去重。
 input_link.txt：放入vless订阅链接。
 output_ips：输出去重后的IP。
 output_links：批量生成去重IP订阅链接。
 
-lwlinkp：IP去重测Ping订阅生成器
+##lwlinkp：IP去重测Ping订阅生成器
 点击lwlinkp.exe对IP去重，进行Ping测试，对响应IP生成订阅。
 input_ips.txt：放入需要去重IP。
 input_link.txt：放入vless订阅链接。
