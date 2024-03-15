@@ -1,8 +1,8 @@
-lwlinks:老歪给朋友的小玩具
+lwlinks：老歪给朋友的小玩具
 ===========================
-# lwgenip：CF IP生成器  
-# lwlink：IP去重订阅生成器  
-# lwlinkp：IP去重测Ping订阅生成器  
+### lwgenip：CF IP生成器  
+### lwlink：IP去重订阅生成器  
+### lwlinkp：IP去重测Ping订阅生成器  
 
 ## lwgenip：CF IP生成器
 点击lwgenip.exe生成指定Cloudflare IP。  
