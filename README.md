@@ -1,4 +1,4 @@
-# lwlinks:老歪给朋友的小玩具
+lwlinks:老歪给朋友的小玩具
 ===========================
 lwgenip：CF IP生成器
 lwlink：IP去重订阅生成器
